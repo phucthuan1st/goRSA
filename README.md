@@ -1,2 +1,2 @@
 # goRSA
-RSA Implementation with HCMUS algorithms
+RSA Implementation with HCMUS algorithms in Go
